@@ -1,4 +1,4 @@
-<h4 align="left">👋 Hey there! I'm Kevin, a senior AI Full Stack Engineer passionate about building intelligent, scalable software. I thrive on solving complex challenges, from Java, and .Net to ReactJS, while sipping coffee ☕ and exploring tech trends. Let's connect and code something amazing together! 🚀</h4>
+<h4 align="left">👋 Hey there! I'm Kevin, a senior AI Full Stack Engineer passionate about building intelligent, scalable software. I help businesses ship intelligent solutions — faster, cleaner, and built to scale. Let's connect and code something amazing together! 🚀</h4>
 
 ###
 <div style="margin:20px"></div>
